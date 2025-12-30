@@ -5,8 +5,8 @@
     "product_name": "Optifact – Logiciel de facturation en Tunisie | Automatisez et gagnez 50 % de temps",
     "client_name": "Mohamed rouissi",
     "address": "Rades mellyen",
-    "gouvernerate": "",
-    "city": "Ben Arous",
+    "gouvernerate": "Ben Arous",
+    "city": "Rades",
     "location": "",
     "tel1": "+21624132711",
     "tel2": "",
@@ -14,6 +14,7 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   }
 ]
