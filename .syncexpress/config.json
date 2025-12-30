@@ -1,0 +1,12 @@
+{
+  "companyName": "MES COLIS EXPRESS",
+  "companySub": "Logistique & Transport",
+  "logoUrl": "",
+  "showQrCode": true,
+  "showBarcode": true,
+  "showProductDetails": true,
+  "showNotes": true,
+  "fontSize": "medium",
+  "barcodeScale": 2,
+  "barcodeHeight": 15
+}
