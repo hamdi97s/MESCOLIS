@@ -5,8 +5,8 @@
     "product_name": "Optifact",
     "client_name": "Ibrahim Ibrahim",
     "address": "Sousse",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Sousse",
+    "city": "Sousse",
     "location": "",
     "tel1": "+21695690326",
     "tel2": "",
@@ -14,6 +14,7 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "LIVRAISON TOUZER",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   }
 ]
