@@ -1,7 +1,7 @@
 {
-  "companyName": "MES COLIS EXPRESS",
-  "companySub": "Logistique & Transport",
-  "logoUrl": "",
+  "companyName": "SOLVIA",
+  "companySub": "MES COLIS EXPRESS",
+  "logoUrl": "https://solvia-dev.com/cdn/shop/files/c816ce470b8fa4acd50a7dedd8090a89.png?v=1759237547&width=500",
   "showQrCode": true,
   "showBarcode": true,
   "showProductDetails": true,
