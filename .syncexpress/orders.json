@@ -14,6 +14,7 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "synced",
+    "barcode": "214055537187"
   }
 ]
