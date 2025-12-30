@@ -8,6 +8,6 @@
   "showNotes": true,
   "showBorder": false,
   "fontSize": "small",
-  "barcodeScale": 2,
+  "barcodeScale": 1.5,
   "barcodeHeight": 30
 }
