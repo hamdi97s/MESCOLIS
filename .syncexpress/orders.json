@@ -14,8 +14,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "LIVRAISON TOUZER",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "820185096299"
   },
   {
     "id": "he3dpe2ux",
@@ -32,8 +33,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "586647845629"
   },
   {
     "id": "1w55fx8wy",
@@ -50,8 +52,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "987890440784"
   },
   {
     "id": "03w2kv9tx",
@@ -68,8 +71,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "optifact",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "564013357371"
   },
   {
     "id": "sm51qnqp0",
@@ -86,8 +90,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "788754876027"
   },
   {
     "id": "ocmf9j1pp",
@@ -104,8 +109,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "868758612158"
   },
   {
     "id": "17ve0k5my",
@@ -122,8 +128,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "350778428411"
   },
   {
     "id": "y5ltm9mpk",
@@ -140,8 +147,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "250110977221"
   },
   {
     "id": "vxxuiq3ex",
@@ -158,8 +166,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "Ste africane batiment et service",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "326336402899"
   },
   {
     "id": "fwqv9wsxq",
@@ -176,8 +185,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "527186211098"
   },
   {
     "id": "djint440w",
@@ -194,8 +204,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "770311233474"
   },
   {
     "id": "mo3m96jy2",
@@ -212,8 +223,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "287876719475"
   },
   {
     "id": "fi89bef90",
@@ -230,7 +242,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "141557663692"
   }
 ]
