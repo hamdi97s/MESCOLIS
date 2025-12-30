@@ -6,7 +6,7 @@
   "showBarcode": true,
   "showProductDetails": true,
   "showNotes": true,
-  "showBorder": true,
+  "showBorder": false,
   "fontSize": "small",
   "barcodeScale": 2,
   "barcodeHeight": 30
