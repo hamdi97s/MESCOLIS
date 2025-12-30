@@ -1,21 +1,19 @@
 [
   {
-    "id": "vms6ej6su",
+    "id": "enhqtoy8z",
     "name": "#1678",
     "product_name": "Optifact",
     "client_name": "Ibrahim Ibrahim",
-    "address": "TOUZER",
-    "gouvernerate": "Tozeur",
-    "city": "TOUZER",
+    "address": "Sousse",
+    "gouvernerate": "",
+    "city": "-",
     "location": "",
     "tel1": "+21695690326",
     "tel2": "",
     "price": "149",
     "exchange": "0",
     "open_ordre": "0",
-    "note": "",
-    "status": "synced",
-    "isAiCorrected": true,
-    "barcode": "600286503743"
+    "note": "LIVRAISON TOUZER",
+    "status": "pending"
   }
 ]
