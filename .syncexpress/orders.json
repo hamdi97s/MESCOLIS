@@ -5,8 +5,8 @@
     "product_name": "Optifact",
     "client_name": "Ibrahim Ibrahim",
     "address": "Sousse",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Sousse",
+    "city": "Sousse",
     "location": "",
     "tel1": "+21695690326",
     "tel2": "",
@@ -14,7 +14,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "LIVRAISON TOUZER",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "he3dpe2ux",
@@ -22,8 +23,8 @@
     "product_name": "Optifact",
     "client_name": "Nasraoui gaith",
     "address": "Foussana",
-    "gouvernerate": "",
-    "city": "Kasserine",
+    "gouvernerate": "Kasserine",
+    "city": "Foussana",
     "location": "",
     "tel1": "+21623774264",
     "tel2": "",
@@ -31,7 +32,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "1w55fx8wy",
@@ -39,8 +41,8 @@
     "product_name": "Optifact",
     "client_name": "Chedly Chedly",
     "address": "Kairouan",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Kairouan",
+    "city": "Kairouan",
     "location": "",
     "tel1": "+21698309777",
     "tel2": "",
@@ -48,7 +50,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "03w2kv9tx",
@@ -56,8 +59,8 @@
     "product_name": "Optifact",
     "client_name": "Wala Eddine Boughattas",
     "address": "El mourouj",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Ben Arous",
+    "city": "El Mourouj",
     "location": "",
     "tel1": "+21652242425",
     "tel2": "",
@@ -65,7 +68,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "optifact",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "sm51qnqp0",
@@ -73,8 +77,8 @@
     "product_name": "Optifact",
     "client_name": "Ahmed berrich",
     "address": "Jemmel",
-    "gouvernerate": "",
-    "city": "Monastir",
+    "gouvernerate": "Monastir",
+    "city": "Jemmel",
     "location": "",
     "tel1": "+21650382686",
     "tel2": "",
@@ -82,7 +86,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "ocmf9j1pp",
@@ -90,7 +95,7 @@
     "product_name": "Optifact",
     "client_name": "Ahmed Ahmed",
     "address": "84 av Habib bourguiba Ariana",
-    "gouvernerate": "",
+    "gouvernerate": "Ariana",
     "city": "Ariana",
     "location": "",
     "tel1": "+21653680808",
@@ -99,7 +104,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "17ve0k5my",
@@ -107,8 +113,8 @@
     "product_name": "Optifact",
     "client_name": "Ghassen Ghassen",
     "address": "Bizerte",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Bizerte",
+    "city": "Bizerte",
     "location": "",
     "tel1": "+21698117689",
     "tel2": "",
@@ -116,7 +122,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "y5ltm9mpk",
@@ -124,7 +131,7 @@
     "product_name": "Optifact",
     "client_name": "Aymen Benzarti",
     "address": "Monastir",
-    "gouvernerate": "",
+    "gouvernerate": "Monastir",
     "city": "Monastir",
     "location": "",
     "tel1": "+21695657019",
@@ -133,7 +140,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "vxxuiq3ex",
@@ -141,8 +149,8 @@
     "product_name": "OptiFact Pro",
     "client_name": "عبدالكريم عبدالكريم",
     "address": "منوبة",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "La Mannouba",
+    "city": "Manouba",
     "location": "",
     "tel1": "+21656711100",
     "tel2": "",
@@ -150,7 +158,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "Ste africane batiment et service",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "fwqv9wsxq",
@@ -158,8 +167,8 @@
     "product_name": "Optifact",
     "client_name": "Grissa Grissa",
     "address": "سيدي عبد الحميد سوسة",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Sousse",
+    "city": "Sidi Abdelhamid",
     "location": "",
     "tel1": "+21698261425",
     "tel2": "",
@@ -167,7 +176,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "djint440w",
@@ -175,8 +185,8 @@
     "product_name": "Optifact",
     "client_name": "Mourad Mourad",
     "address": "Ariana",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Ariana",
+    "city": "Ariana",
     "location": "",
     "tel1": "+21653818685",
     "tel2": "",
@@ -184,7 +194,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "mo3m96jy2",
@@ -192,8 +203,8 @@
     "product_name": "Optifact",
     "client_name": "Ridha Ridha",
     "address": ".hammam sousse",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Sousse",
+    "city": "Hammam Sousse",
     "location": "",
     "tel1": "+21655232635",
     "tel2": "",
@@ -201,7 +212,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "fi89bef90",
@@ -209,8 +221,8 @@
     "product_name": "Optifact",
     "client_name": "JAHED ARROUSI",
     "address": "djerba",
-    "gouvernerate": "",
-    "city": "Medenine",
+    "gouvernerate": "Médenine",
+    "city": "Djerba",
     "location": "",
     "tel1": "+21698281025",
     "tel2": "",
@@ -218,6 +230,7 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   }
 ]
