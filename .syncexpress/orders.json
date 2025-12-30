@@ -1,21 +1,19 @@
 [
   {
-    "id": "mtcze8rfc",
-    "name": "#1376",
-    "product_name": "Optifact – Logiciel de facturation en Tunisie | Automatisez et gagnez 50 % de temps",
-    "client_name": "Mohamed rouissi",
-    "address": "Rades mellyen",
-    "gouvernerate": "Ben Arous",
-    "city": "Rades",
+    "id": "vms6ej6su",
+    "name": "#1678",
+    "product_name": "Optifact",
+    "client_name": "Ibrahim Ibrahim",
+    "address": "Sousse",
+    "gouvernerate": "",
+    "city": "-",
     "location": "",
-    "tel1": "+21624132711",
+    "tel1": "+21695690326",
     "tel2": "",
-    "price": "210",
+    "price": "149",
     "exchange": "0",
     "open_ordre": "0",
-    "note": "",
-    "status": "synced",
-    "isAiCorrected": true,
-    "barcode": "645992207667"
+    "note": "LIVRAISON TOUZER",
+    "status": "pending"
   }
 ]
