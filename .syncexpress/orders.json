@@ -14,6 +14,7 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "LIVRAISON TOUZER",
-    "status": "pending"
+    "status": "synced",
+    "barcode": "181659376132"
   }
 ]
