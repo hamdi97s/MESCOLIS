@@ -207,24 +207,5 @@
     "status": "synced",
     "isAiCorrected": true,
     "barcode": "770311233474"
-  },
-  {
-    "id": "mo3m96jy2",
-    "name": "#1670",
-    "product_name": "Optifact",
-    "client_name": "Ridha Ridha",
-    "address": ".hammam sousse",
-    "gouvernerate": "Sousse",
-    "city": "Hammam Sousse",
-    "location": "",
-    "tel1": "+21655232635",
-    "tel2": "",
-    "price": "149",
-    "exchange": "0",
-    "open_ordre": "0",
-    "note": "",
-    "status": "synced",
-    "isAiCorrected": true,
-    "barcode": "287876719475"
   }
 ]
