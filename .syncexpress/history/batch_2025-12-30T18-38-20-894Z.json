@@ -226,24 +226,5 @@
     "status": "synced",
     "isAiCorrected": true,
     "barcode": "287876719475"
-  },
-  {
-    "id": "fi89bef90",
-    "name": "#1671",
-    "product_name": "Optifact",
-    "client_name": "JAHED ARROUSI",
-    "address": "djerba",
-    "gouvernerate": "Médenine",
-    "city": "Djerba",
-    "location": "",
-    "tel1": "+21698281025",
-    "tel2": "",
-    "price": "149",
-    "exchange": "0",
-    "open_ordre": "0",
-    "note": "",
-    "status": "synced",
-    "isAiCorrected": true,
-    "barcode": "141557663692"
   }
 ]
