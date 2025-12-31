@@ -131,24 +131,5 @@
     "status": "synced",
     "isAiCorrected": true,
     "barcode": "350778428411"
-  },
-  {
-    "id": "y5ltm9mpk",
-    "name": "#1659",
-    "product_name": "Optifact",
-    "client_name": "Aymen Benzarti",
-    "address": "Monastir",
-    "gouvernerate": "Monastir",
-    "city": "Monastir",
-    "location": "",
-    "tel1": "+21695657019",
-    "tel2": "",
-    "price": "149",
-    "exchange": "0",
-    "open_ordre": "0",
-    "note": "",
-    "status": "synced",
-    "isAiCorrected": true,
-    "barcode": "250110977221"
   }
 ]
