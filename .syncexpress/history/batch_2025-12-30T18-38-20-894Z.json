@@ -74,24 +74,5 @@
     "status": "synced",
     "isAiCorrected": true,
     "barcode": "564013357371"
-  },
-  {
-    "id": "sm51qnqp0",
-    "name": "#1651",
-    "product_name": "Optifact",
-    "client_name": "Ahmed berrich",
-    "address": "Jemmel",
-    "gouvernerate": "Monastir",
-    "city": "Jemmel",
-    "location": "",
-    "tel1": "+21650382686",
-    "tel2": "",
-    "price": "149",
-    "exchange": "0",
-    "open_ordre": "0",
-    "note": "",
-    "status": "synced",
-    "isAiCorrected": true,
-    "barcode": "788754876027"
   }
 ]
