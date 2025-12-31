@@ -112,24 +112,5 @@
     "status": "synced",
     "isAiCorrected": true,
     "barcode": "868758612158"
-  },
-  {
-    "id": "17ve0k5my",
-    "name": "#1655",
-    "product_name": "Optifact",
-    "client_name": "Ghassen Ghassen",
-    "address": "Bizerte",
-    "gouvernerate": "Bizerte",
-    "city": "Bizerte",
-    "location": "",
-    "tel1": "+21698117689",
-    "tel2": "",
-    "price": "149",
-    "exchange": "0",
-    "open_ordre": "0",
-    "note": "",
-    "status": "synced",
-    "isAiCorrected": true,
-    "barcode": "350778428411"
   }
 ]
