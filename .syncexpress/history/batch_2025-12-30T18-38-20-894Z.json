@@ -55,24 +55,5 @@
     "status": "synced",
     "isAiCorrected": true,
     "barcode": "987890440784"
-  },
-  {
-    "id": "03w2kv9tx",
-    "name": "#1650",
-    "product_name": "Optifact",
-    "client_name": "Wala Eddine Boughattas",
-    "address": "El mourouj",
-    "gouvernerate": "Ben Arous",
-    "city": "El Mourouj",
-    "location": "",
-    "tel1": "+21652242425",
-    "tel2": "",
-    "price": "210",
-    "exchange": "0",
-    "open_ordre": "0",
-    "note": "optifact",
-    "status": "synced",
-    "isAiCorrected": true,
-    "barcode": "564013357371"
   }
 ]
