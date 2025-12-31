@@ -17,24 +17,5 @@
     "status": "synced",
     "isAiCorrected": true,
     "barcode": "820185096299"
-  },
-  {
-    "id": "he3dpe2ux",
-    "name": "#1647",
-    "product_name": "Optifact",
-    "client_name": "Nasraoui gaith",
-    "address": "Foussana",
-    "gouvernerate": "Kasserine",
-    "city": "Foussana",
-    "location": "",
-    "tel1": "+21623774264",
-    "tel2": "",
-    "price": "210",
-    "exchange": "0",
-    "open_ordre": "0",
-    "note": "",
-    "status": "synced",
-    "isAiCorrected": true,
-    "barcode": "586647845629"
   }
 ]
