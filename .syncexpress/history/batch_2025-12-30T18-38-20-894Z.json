@@ -150,24 +150,5 @@
     "status": "synced",
     "isAiCorrected": true,
     "barcode": "250110977221"
-  },
-  {
-    "id": "vxxuiq3ex",
-    "name": "#1660",
-    "product_name": "OptiFact Pro",
-    "client_name": "عبدالكريم عبدالكريم",
-    "address": "منوبة",
-    "gouvernerate": "La Mannouba",
-    "city": "Manouba",
-    "location": "",
-    "tel1": "+21656711100",
-    "tel2": "",
-    "price": "210",
-    "exchange": "0",
-    "open_ordre": "0",
-    "note": "Ste africane batiment et service",
-    "status": "synced",
-    "isAiCorrected": true,
-    "barcode": "326336402899"
   }
 ]
