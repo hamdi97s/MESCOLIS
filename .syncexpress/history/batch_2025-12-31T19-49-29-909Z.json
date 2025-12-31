@@ -16,6 +16,7 @@
     "note": "LIVRAISON TOUZER",
     "status": "synced",
     "barcode": "227636132686",
-    "delivery_status": "En attente"
+    "delivery_status": "Introuvable",
+    "updated_at": "2025-12-31T19:53:02.219Z"
   }
 ]
