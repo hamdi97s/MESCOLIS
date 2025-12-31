@@ -188,24 +188,5 @@
     "status": "synced",
     "isAiCorrected": true,
     "barcode": "527186211098"
-  },
-  {
-    "id": "djint440w",
-    "name": "#1669",
-    "product_name": "Optifact",
-    "client_name": "Mourad Mourad",
-    "address": "Ariana",
-    "gouvernerate": "Ariana",
-    "city": "Ariana",
-    "location": "",
-    "tel1": "+21653818685",
-    "tel2": "",
-    "price": "149",
-    "exchange": "0",
-    "open_ordre": "0",
-    "note": "",
-    "status": "synced",
-    "isAiCorrected": true,
-    "barcode": "770311233474"
   }
 ]
