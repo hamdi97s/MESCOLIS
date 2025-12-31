@@ -36,24 +36,5 @@
     "status": "synced",
     "isAiCorrected": true,
     "barcode": "586647845629"
-  },
-  {
-    "id": "1w55fx8wy",
-    "name": "#1648",
-    "product_name": "Optifact",
-    "client_name": "Chedly Chedly",
-    "address": "Kairouan",
-    "gouvernerate": "Kairouan",
-    "city": "Kairouan",
-    "location": "",
-    "tel1": "+21698309777",
-    "tel2": "",
-    "price": "149",
-    "exchange": "0",
-    "open_ordre": "0",
-    "note": "",
-    "status": "synced",
-    "isAiCorrected": true,
-    "barcode": "987890440784"
   }
 ]
