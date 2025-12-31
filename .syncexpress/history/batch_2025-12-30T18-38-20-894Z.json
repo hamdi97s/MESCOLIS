@@ -169,24 +169,5 @@
     "status": "synced",
     "isAiCorrected": true,
     "barcode": "326336402899"
-  },
-  {
-    "id": "fwqv9wsxq",
-    "name": "#1664",
-    "product_name": "Optifact",
-    "client_name": "Grissa Grissa",
-    "address": "سيدي عبد الحميد سوسة",
-    "gouvernerate": "Sousse",
-    "city": "Sidi Abdelhamid",
-    "location": "",
-    "tel1": "+21698261425",
-    "tel2": "",
-    "price": "210",
-    "exchange": "0",
-    "open_ordre": "0",
-    "note": "",
-    "status": "synced",
-    "isAiCorrected": true,
-    "barcode": "527186211098"
   }
 ]
