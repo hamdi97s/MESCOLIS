@@ -16,7 +16,8 @@
     "note": "seulement optifact",
     "status": "synced",
     "barcode": "395586862949",
-    "delivery_status": "En attente"
+    "delivery_status": "Introuvable",
+    "updated_at": "2025-12-31T16:13:34.056Z"
   },
   {
     "id": "6db2ty1ej",
@@ -35,7 +36,8 @@
     "note": "",
     "status": "synced",
     "barcode": "686374781143",
-    "delivery_status": "En attente"
+    "delivery_status": "Introuvable",
+    "updated_at": "2025-12-31T16:13:34.438Z"
   },
   {
     "id": "9q9g5wb6w",
@@ -54,6 +56,7 @@
     "note": "",
     "status": "synced",
     "barcode": "309636283909",
-    "delivery_status": "En attente"
+    "delivery_status": "Introuvable",
+    "updated_at": "2025-12-31T16:13:34.819Z"
   }
 ]
