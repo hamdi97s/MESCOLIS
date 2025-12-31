@@ -14,7 +14,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "seulement optifact",
-    "status": "pending"
+    "status": "synced",
+    "barcode": "395586862949",
+    "delivery_status": "En attente"
   },
   {
     "id": "6db2ty1ej",
@@ -31,7 +33,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "synced",
+    "barcode": "686374781143",
+    "delivery_status": "En attente"
   },
   {
     "id": "9q9g5wb6w",
@@ -48,6 +52,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "synced",
+    "barcode": "309636283909",
+    "delivery_status": "En attente"
   }
 ]
