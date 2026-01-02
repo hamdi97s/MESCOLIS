@@ -16,7 +16,8 @@
     "location": "",
     "tel2": "",
     "barcode": "626225028612",
-    "delivery_status": "En attente"
+    "delivery_status": "Introuvable",
+    "updated_at": "2026-01-02T17:45:48.627Z"
   },
   {
     "id": "9m1zowra6",
@@ -35,7 +36,8 @@
     "note": "facture : ولاء الدين التليلي",
     "status": "synced",
     "barcode": "169070464311",
-    "delivery_status": "En attente"
+    "delivery_status": "Introuvable",
+    "updated_at": "2026-01-02T17:45:48.979Z"
   },
   {
     "id": "f0enes27d",
@@ -54,7 +56,8 @@
     "note": "53 068 313",
     "status": "synced",
     "barcode": "138628911446",
-    "delivery_status": "En attente"
+    "delivery_status": "Introuvable",
+    "updated_at": "2026-01-02T17:45:49.426Z"
   },
   {
     "id": "4hjgkei13",
@@ -74,7 +77,8 @@
     "status": "synced",
     "isAiCorrected": true,
     "barcode": "524958830305",
-    "delivery_status": "En attente"
+    "delivery_status": "Introuvable",
+    "updated_at": "2026-01-02T17:45:49.789Z"
   },
   {
     "id": "whqbjkffk",
@@ -94,7 +98,8 @@
     "status": "synced",
     "isAiCorrected": true,
     "barcode": "879253568388",
-    "delivery_status": "En attente"
+    "delivery_status": "Introuvable",
+    "updated_at": "2026-01-02T17:45:50.159Z"
   },
   {
     "id": "bvnp1zbdr",
@@ -114,7 +119,8 @@
     "status": "synced",
     "isAiCorrected": true,
     "barcode": "210077292207",
-    "delivery_status": "En attente"
+    "delivery_status": "Introuvable",
+    "updated_at": "2026-01-02T17:45:50.519Z"
   },
   {
     "id": "zzf57o3gz",
@@ -134,7 +140,8 @@
     "status": "synced",
     "isAiCorrected": true,
     "barcode": "875929284899",
-    "delivery_status": "En attente"
+    "delivery_status": "Introuvable",
+    "updated_at": "2026-01-02T17:45:50.882Z"
   },
   {
     "id": "8ctkmrr7s",
@@ -154,7 +161,8 @@
     "status": "synced",
     "isAiCorrected": true,
     "barcode": "513309495605",
-    "delivery_status": "En attente"
+    "delivery_status": "Introuvable",
+    "updated_at": "2026-01-02T17:45:51.245Z"
   },
   {
     "id": "to4mbx2d0",
@@ -174,7 +182,8 @@
     "status": "synced",
     "isAiCorrected": true,
     "barcode": "558038598615",
-    "delivery_status": "En attente"
+    "delivery_status": "Introuvable",
+    "updated_at": "2026-01-02T17:45:51.613Z"
   },
   {
     "id": "1oif10skh",
@@ -194,7 +203,8 @@
     "status": "synced",
     "isAiCorrected": true,
     "barcode": "885742740852",
-    "delivery_status": "En attente"
+    "delivery_status": "Introuvable",
+    "updated_at": "2026-01-02T17:45:52.009Z"
   },
   {
     "id": "7jf4xegy1",
@@ -214,6 +224,7 @@
     "status": "synced",
     "isAiCorrected": true,
     "barcode": "673470770827",
-    "delivery_status": "En attente"
+    "delivery_status": "Introuvable",
+    "updated_at": "2026-01-02T17:45:52.364Z"
   }
 ]
