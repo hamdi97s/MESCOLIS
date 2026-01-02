@@ -56,8 +56,8 @@
     "product_name": "OptiFact Pro",
     "client_name": "Rihab Khalfallah",
     "address": "Dar chaabene",
-    "gouvernerate": "",
-    "city": "Nabeul",
+    "gouvernerate": "Nabeul",
+    "city": "Dar Chaabane",
     "location": "",
     "tel1": "+21621094928",
     "tel2": "",
@@ -65,7 +65,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture sous le nom: SOCIETE AWSAHRI AWSAHRI",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "whqbjkffk",
@@ -73,8 +74,8 @@
     "product_name": "Optifact",
     "client_name": "KHALED JLASSI",
     "address": "N° 180 RUE 9042 JBAL JLOUD Tunis",
-    "gouvernerate": "",
-    "city": "Tunis",
+    "gouvernerate": "Tunis",
+    "city": "Djebel Jelloud",
     "location": "",
     "tel1": "+21693527550",
     "tel2": "",
@@ -82,7 +83,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "bvnp1zbdr",
@@ -90,8 +92,8 @@
     "product_name": "Optifact",
     "client_name": "Haithem Haithem",
     "address": "Immeuble l'empereur cité Nasser Arianna",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Ariana",
+    "city": "Ennasr",
     "location": "",
     "tel1": "+21625470403",
     "tel2": "",
@@ -99,7 +101,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "zzf57o3gz",
@@ -107,8 +110,8 @@
     "product_name": "OptiFact Pro",
     "client_name": "aymen CHICHI",
     "address": "44rue omar ibn abdelaziz etathamen ariana",
-    "gouvernerate": "",
-    "city": "Ariana",
+    "gouvernerate": "Ariana",
+    "city": "Cite Ettadhamen",
     "location": "",
     "tel1": "+21626169633",
     "tel2": "",
@@ -116,7 +119,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "sameh hamdi",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "8ctkmrr7s",
@@ -124,8 +128,8 @@
     "product_name": "Optifact",
     "client_name": "Soumaya Soumaya",
     "address": "Megrine",
-    "gouvernerate": "",
-    "city": "Ben Arous",
+    "gouvernerate": "Ben Arous",
+    "city": "Megrine",
     "location": "",
     "tel1": "+21622551607",
     "tel2": "",
@@ -133,7 +137,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "to4mbx2d0",
@@ -141,7 +146,7 @@
     "product_name": "Optifact",
     "client_name": "ياسين السعداني",
     "address": "بن عروس شارع فرنسا",
-    "gouvernerate": "",
+    "gouvernerate": "Ben Arous",
     "city": "Ben Arous",
     "location": "",
     "tel1": "+21653313533",
@@ -150,7 +155,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "STE TUNISIE RAYONNAGE",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "1oif10skh",
@@ -158,8 +164,8 @@
     "product_name": "Optifact",
     "client_name": "بن ابراهيم حبيب",
     "address": "ميدون جربة",
-    "gouvernerate": "",
-    "city": "Medenine",
+    "gouvernerate": "Médenine",
+    "city": "Midoun",
     "location": "",
     "tel1": "+21621089724",
     "tel2": "",
@@ -167,7 +173,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "7jf4xegy1",
@@ -175,8 +182,8 @@
     "product_name": "Optifact",
     "client_name": "Ghazi khanfir",
     "address": "Yasminette ben arous",
-    "gouvernerate": "",
-    "city": "Ben Arous",
+    "gouvernerate": "Ben Arous",
+    "city": "Yasminette",
     "location": "",
     "tel1": "+21629590738",
     "tel2": "",
@@ -184,6 +191,7 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   }
 ]
