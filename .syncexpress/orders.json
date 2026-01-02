@@ -14,7 +14,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "seulement optifact",
-    "status": "pending"
+    "status": "error",
+    "errorMessage": "Error, City not found"
   },
   {
     "id": "tua6hqnlh",
@@ -31,7 +32,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "error",
+    "errorMessage": "Error, City not found"
   },
   {
     "id": "7wafnura1",
@@ -48,6 +50,7 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "error",
+    "errorMessage": "Error, City not found"
   }
 ]
