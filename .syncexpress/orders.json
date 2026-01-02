@@ -10,11 +10,13 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
+    "status": "synced",
     "id": "pdayty8nk",
     "name": "MAN-8184",
     "location": "",
-    "tel2": ""
+    "tel2": "",
+    "barcode": "626225028612",
+    "delivery_status": "En attente"
   },
   {
     "id": "9m1zowra6",
@@ -31,7 +33,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture : ولاء الدين التليلي",
-    "status": "pending"
+    "status": "synced",
+    "barcode": "169070464311",
+    "delivery_status": "En attente"
   },
   {
     "id": "f0enes27d",
@@ -48,7 +52,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "53 068 313",
-    "status": "pending"
+    "status": "synced",
+    "barcode": "138628911446",
+    "delivery_status": "En attente"
   },
   {
     "id": "4hjgkei13",
@@ -65,8 +71,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture sous le nom: SOCIETE AWSAHRI AWSAHRI",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "524958830305",
+    "delivery_status": "En attente"
   },
   {
     "id": "whqbjkffk",
@@ -83,8 +91,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "879253568388",
+    "delivery_status": "En attente"
   },
   {
     "id": "bvnp1zbdr",
@@ -101,8 +111,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "210077292207",
+    "delivery_status": "En attente"
   },
   {
     "id": "zzf57o3gz",
@@ -119,8 +131,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "sameh hamdi",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "875929284899",
+    "delivery_status": "En attente"
   },
   {
     "id": "8ctkmrr7s",
@@ -137,8 +151,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "513309495605",
+    "delivery_status": "En attente"
   },
   {
     "id": "to4mbx2d0",
@@ -155,8 +171,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "STE TUNISIE RAYONNAGE",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "558038598615",
+    "delivery_status": "En attente"
   },
   {
     "id": "1oif10skh",
@@ -173,8 +191,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "885742740852",
+    "delivery_status": "En attente"
   },
   {
     "id": "7jf4xegy1",
@@ -191,7 +211,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "673470770827",
+    "delivery_status": "En attente"
   }
 ]
