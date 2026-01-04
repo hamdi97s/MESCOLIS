@@ -1,0 +1,40 @@
+[
+  {
+    "product_name": "CARTON 77/85",
+    "client_name": "Jabberi Riadh",
+    "address": "Bizerte sud la pécherie , Bizerte sud la pécherie",
+    "gouvernerate": "Bizerte",
+    "city": "Bizerte ",
+    "tel1": "29570607",
+    "price": "51",
+    "exchange": "0",
+    "open_ordre": "0",
+    "note": "",
+    "status": "synced",
+    "id": "qrp9hokr9",
+    "name": "MAN-2496",
+    "location": "",
+    "tel2": "",
+    "barcode": "729614989634",
+    "delivery_status": "En attente"
+  },
+  {
+    "product_name": "CARTON 77/85",
+    "client_name": "Jabberi Riadh ",
+    "address": "Bizerte sud la pécherie , Bizerte sud la pécherie",
+    "gouvernerate": "Bizerte",
+    "city": "Bizerte ",
+    "tel1": "29570607",
+    "price": "51",
+    "exchange": "0",
+    "open_ordre": "0",
+    "note": "",
+    "status": "synced",
+    "id": "8da7tso73",
+    "name": "MAN-5160",
+    "location": "",
+    "tel2": "",
+    "barcode": "256133889365",
+    "delivery_status": "En attente"
+  }
+]
