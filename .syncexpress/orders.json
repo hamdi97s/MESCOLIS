@@ -14,7 +14,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "synced",
+    "barcode": "551609164786",
+    "delivery_status": "En attente"
   },
   {
     "id": "v4qtpysj8",
@@ -31,7 +33,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "Facture : Sté ben jaballah maintenance",
-    "status": "pending"
+    "status": "synced",
+    "barcode": "430942494665",
+    "delivery_status": "En attente"
   },
   {
     "id": "78epqcgwv",
@@ -48,7 +52,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "synced",
+    "barcode": "478839032456",
+    "delivery_status": "En attente"
   },
   {
     "id": "9e0knyoy0",
@@ -65,7 +71,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "synced",
+    "barcode": "918941054009",
+    "delivery_status": "En attente"
   },
   {
     "id": "ccx8zjoqu",
@@ -82,6 +90,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "synced",
+    "barcode": "668094244216",
+    "delivery_status": "En attente"
   }
 ]
