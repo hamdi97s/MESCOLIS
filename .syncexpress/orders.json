@@ -5,8 +5,8 @@
     "product_name": "Optifact",
     "client_name": "Hamdi Hamdi",
     "address": "Hammamet",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Nabeul",
+    "city": "Hammamet",
     "location": "",
     "tel1": "+21698254854",
     "tel2": "",
@@ -14,7 +14,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "5kkrfnwt2",
@@ -22,7 +23,7 @@
     "product_name": "Optifact",
     "client_name": "منير درعه",
     "address": "شارع ثورة 14 جانفي القصرين",
-    "gouvernerate": "",
+    "gouvernerate": "Kasserine",
     "city": "Kasserine",
     "location": "",
     "tel1": "+21695686807",
@@ -31,7 +32,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "djczh7nyf",
@@ -39,8 +41,8 @@
     "product_name": "Optifact",
     "client_name": "Tarek Tarek",
     "address": "حي الهضاب فشانه",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Ben Arous",
+    "city": "Fouchana",
     "location": "",
     "tel1": "+21698901202",
     "tel2": "",
@@ -48,6 +50,7 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   }
 ]
