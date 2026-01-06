@@ -10,11 +10,13 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
+    "status": "synced",
     "id": "nvwi34z5h",
     "name": "MAN-6700",
     "location": "",
-    "tel2": ""
+    "tel2": "",
+    "barcode": "645648713832",
+    "delivery_status": "En attente"
   },
   {
     "product_name": "500 BOITE CARTON",
@@ -27,10 +29,12 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
+    "status": "synced",
     "id": "fkf9km1cg",
     "name": "MAN-1947",
     "location": "",
-    "tel2": ""
+    "tel2": "",
+    "barcode": "319213665060",
+    "delivery_status": "En attente"
   }
 ]
