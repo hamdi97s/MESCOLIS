@@ -5,8 +5,8 @@
     "product_name": "Optifact",
     "client_name": "حاله الجبالي",
     "address": "قربه",
-    "gouvernerate": "",
-    "city": "Nabeul",
+    "gouvernerate": "Nabeul",
+    "city": "Korba",
     "location": "",
     "tel1": "+21655951188",
     "tel2": "",
@@ -14,7 +14,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "هالة الجبالي",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "alurcus7u",
@@ -22,8 +23,8 @@
     "product_name": "Optifact",
     "client_name": "Raja Raja",
     "address": "Lafayete",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Tunis",
+    "city": "Lafayette",
     "location": "",
     "tel1": "+21620259778",
     "tel2": "",
@@ -31,7 +32,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "lf82d2d2k",
@@ -39,8 +41,8 @@
     "product_name": "Optifact",
     "client_name": "Riadh Riadh",
     "address": "Sidi bouzid",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Sidi Bouzid",
+    "city": "Sidi Bouzid",
     "location": "",
     "tel1": "+21693570267",
     "tel2": "",
@@ -48,7 +50,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "1yyyb9pwx",
@@ -56,8 +59,8 @@
     "product_name": "Optifact",
     "client_name": "Tammem Tammem",
     "address": "مقرين",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Ben Arous",
+    "city": "Mégrine",
     "location": "",
     "tel1": "+21624212784",
     "tel2": "",
@@ -65,6 +68,7 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   }
 ]
