@@ -14,8 +14,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "هالة الجبالي",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "611542306238",
+    "delivery_status": "En attente"
   },
   {
     "id": "alurcus7u",
@@ -32,8 +34,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "150759122707",
+    "delivery_status": "En attente"
   },
   {
     "id": "lf82d2d2k",
@@ -50,8 +54,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "297166465549",
+    "delivery_status": "En attente"
   },
   {
     "id": "1yyyb9pwx",
@@ -68,7 +74,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "189623351765",
+    "delivery_status": "En attente"
   }
 ]
