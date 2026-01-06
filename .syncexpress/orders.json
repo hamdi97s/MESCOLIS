@@ -10,11 +10,13 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
+    "status": "synced",
     "id": "hnqayonel",
     "name": "MAN-6333",
     "location": "",
-    "tel2": ""
+    "tel2": "",
+    "barcode": "686610472744",
+    "delivery_status": "En attente"
   },
   {
     "product_name": "10 60/40/40",
@@ -27,11 +29,13 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
+    "status": "synced",
     "id": "tchgwh01n",
     "name": "MAN-6901",
     "location": "",
-    "tel2": ""
+    "tel2": "",
+    "barcode": "565149081087",
+    "delivery_status": "En attente"
   },
   {
     "product_name": "10 60/40/40",
@@ -44,10 +48,12 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
+    "status": "synced",
     "id": "fvtjuenpr",
     "name": "MAN-3957",
     "location": "",
-    "tel2": ""
+    "tel2": "",
+    "barcode": "345520658853",
+    "delivery_status": "En attente"
   }
 ]
