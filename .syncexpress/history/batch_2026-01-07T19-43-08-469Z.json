@@ -1,0 +1,40 @@
+[
+  {
+    "product_name": "10 60/40/40",
+    "client_name": "WAHY  ARTISAN DU BOIS",
+    "address": "Rue SAADA JAWAWLA",
+    "gouvernerate": "Gabès",
+    "city": "GABES",
+    "tel1": "22005999",
+    "price": "43",
+    "exchange": "0",
+    "open_ordre": "0",
+    "note": "",
+    "status": "synced",
+    "id": "r8jpmqdgs",
+    "name": "MAN-7056",
+    "location": "",
+    "tel2": "",
+    "barcode": "201940725296",
+    "delivery_status": "En attente"
+  },
+  {
+    "product_name": "10 60/40/40",
+    "client_name": "WAHY  ARTISAN DU BOIS",
+    "address": "Rue SAADA JAWAWLA",
+    "gouvernerate": "Gabès",
+    "city": "GABES",
+    "tel1": "22005999",
+    "price": "43",
+    "exchange": "0",
+    "open_ordre": "0",
+    "note": "",
+    "status": "synced",
+    "id": "uw4xjk7hb",
+    "name": "MAN-8375",
+    "location": "",
+    "tel2": "",
+    "barcode": "124566809612",
+    "delivery_status": "En attente"
+  }
+]
