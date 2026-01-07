@@ -5,7 +5,7 @@
     "product_name": "Optifact",
     "client_name": "bilel abaydi",
     "address": "sousse Av de la république n° 23",
-    "gouvernerate": "",
+    "gouvernerate": "Sousse",
     "city": "Sousse",
     "location": "",
     "tel1": "+21650489490",
@@ -14,7 +14,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "g04rskxt9",
@@ -22,7 +23,7 @@
     "product_name": "Optifact",
     "client_name": "ahmed hakim",
     "address": "rte mahdia klm 7",
-    "gouvernerate": "",
+    "gouvernerate": "Sfax",
     "city": "Sfax",
     "location": "",
     "tel1": "+21623910522",
@@ -31,7 +32,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "1fw6aa90v",
@@ -39,8 +41,8 @@
     "product_name": "Optifact",
     "client_name": "Sami Sami",
     "address": "Ariana",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Ariana",
+    "city": "Ariana",
     "location": "",
     "tel1": "+21620433270",
     "tel2": "",
@@ -48,7 +50,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "rf4f90jiq",
@@ -56,7 +59,7 @@
     "product_name": "Optifact",
     "client_name": "رمزي رمزي",
     "address": "قابس",
-    "gouvernerate": "",
+    "gouvernerate": "Gabès",
     "city": "Gabès",
     "location": "",
     "tel1": "+21629687606",
@@ -65,6 +68,7 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   }
 ]
