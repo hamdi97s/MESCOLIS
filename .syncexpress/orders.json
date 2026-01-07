@@ -10,10 +10,12 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "URGENT (LIVRAISON LE 08/01/2026)",
-    "status": "pending",
+    "status": "synced",
     "id": "i1rn3rkux",
     "name": "MAN-7620",
     "location": "",
-    "tel2": ""
+    "tel2": "",
+    "barcode": "884436348308",
+    "delivery_status": "En attente"
   }
 ]
