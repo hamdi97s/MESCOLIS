@@ -14,8 +14,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "605592009438",
+    "delivery_status": "En attente"
   },
   {
     "id": "g04rskxt9",
@@ -32,8 +34,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "272585624375",
+    "delivery_status": "En attente"
   },
   {
     "id": "1fw6aa90v",
@@ -50,8 +54,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "111438306131",
+    "delivery_status": "En attente"
   },
   {
     "id": "rf4f90jiq",
@@ -68,7 +74,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "744402273650",
+    "delivery_status": "En attente"
   }
 ]
