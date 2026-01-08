@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "product_name": "500 BOITE EN CARTON",
+    "client_name": "Mohamed sansa",
+    "address": "Ben aarous madina el jadida bahdha carrefour , madina el jadida",
+    "gouvernerate": "Ben Arous",
+    "city": "BEN AROUS",
+    "tel1": "26109034",
+    "price": "300",
+    "exchange": "0",
+    "open_ordre": "0",
+    "note": "",
+    "status": "pending",
+    "id": "vqunaxwnl",
+    "name": "MAN-9716",
+    "location": "",
+    "tel2": ""
+  }
+]
