@@ -14,8 +14,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "929622300897",
+    "delivery_status": "En attente"
   },
   {
     "id": "sf8ziyjwo",
@@ -32,8 +34,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "824921557465",
+    "delivery_status": "En attente"
   },
   {
     "id": "2y6yihtx8",
@@ -50,7 +54,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture sous le nom: société Agora graphic",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "203953337746",
+    "delivery_status": "En attente"
   }
 ]
