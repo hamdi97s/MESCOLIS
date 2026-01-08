@@ -10,10 +10,12 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
+    "status": "synced",
     "id": "vqunaxwnl",
     "name": "MAN-9716",
     "location": "",
-    "tel2": ""
+    "tel2": "",
+    "barcode": "172089230049",
+    "delivery_status": "En attente"
   }
 ]
