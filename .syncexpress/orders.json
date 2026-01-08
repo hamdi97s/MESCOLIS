@@ -5,7 +5,7 @@
     "product_name": "Optifact",
     "client_name": "سفيان سفيان",
     "address": "طريق تنيور",
-    "gouvernerate": "",
+    "gouvernerate": "Sfax",
     "city": "Sfax",
     "location": "",
     "tel1": "+21654631791",
@@ -14,7 +14,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "sf8ziyjwo",
@@ -22,8 +23,8 @@
     "product_name": "Optifact",
     "client_name": "Habib Gattoussi",
     "address": "Huilerie gattoussi SOLIMA",
-    "gouvernerate": "",
-    "city": "Nabeul",
+    "gouvernerate": "Nabeul",
+    "city": "Soliman",
     "location": "",
     "tel1": "+21698326248",
     "tel2": "",
@@ -31,7 +32,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "2y6yihtx8",
@@ -39,8 +41,8 @@
     "product_name": "Optifact",
     "client_name": "rafik srairi",
     "address": "Hammam lif",
-    "gouvernerate": "",
-    "city": "Ben Arous",
+    "gouvernerate": "Ben Arous",
+    "city": "Hammam Lif",
     "location": "",
     "tel1": "+21623153153",
     "tel2": "",
@@ -48,6 +50,7 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture sous le nom: société Agora graphic",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   }
 ]
