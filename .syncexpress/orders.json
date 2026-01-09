@@ -1,6 +1,23 @@
 [
   {
     "product_name": "10 60/40/40",
+    "client_name": "WAHY  ARTISAN DU BOIS",
+    "address": "Rue SAADA JAWAWLA , GABES ",
+    "gouvernerate": "Gabès",
+    "city": "Gabès",
+    "tel1": "22005999",
+    "price": "43",
+    "exchange": "0",
+    "open_ordre": "0",
+    "note": "",
+    "status": "pending",
+    "id": "mc6v38q2v",
+    "name": "MAN-3521",
+    "location": "",
+    "tel2": ""
+  },
+  {
+    "product_name": "10 60/40/40",
     "client_name": "WAHY ARTISAN DU BOIS",
     "address": "Rue SAADA JAWAWLA , GABES ",
     "gouvernerate": "Gabès",
