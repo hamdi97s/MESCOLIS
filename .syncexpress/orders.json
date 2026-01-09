@@ -39,7 +39,7 @@
     "product_name": "Optifact",
     "client_name": "Kamel ZRIBI",
     "address": "Route de Tunis km3 dar attabib sfax",
-    "gouvernerate": "",
+    "gouvernerate": "Sfax",
     "city": "Sfax",
     "location": "",
     "tel1": "+21655413555",
@@ -48,7 +48,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "3bj2p0qby",
@@ -56,7 +57,7 @@
     "product_name": "Optifact",
     "client_name": "نادية عبدلي",
     "address": "20 نهج 12 ماي 1964 بن عروس",
-    "gouvernerate": "",
+    "gouvernerate": "Ben Arous",
     "city": "Ben Arous",
     "location": "",
     "tel1": "+21622922218",
@@ -65,7 +66,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "bftl6n3bo",
@@ -73,8 +75,8 @@
     "product_name": "Optifact",
     "client_name": "Mohamed abdelmoula",
     "address": "Ala",
-    "gouvernerate": "",
-    "city": "Bizerte",
+    "gouvernerate": "Bizerte",
+    "city": "El Alia",
     "location": "",
     "tel1": "+21626863888",
     "tel2": "",
@@ -82,7 +84,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "76w4q0l9z",
@@ -90,8 +93,8 @@
     "product_name": "Optifact",
     "client_name": "Kawther Kawther",
     "address": "Manzah 9c",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Tunis",
+    "city": "El Menzah",
     "location": "",
     "tel1": "+21655680208",
     "tel2": "",
@@ -99,7 +102,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "jxrbk0fc7",
@@ -107,8 +111,8 @@
     "product_name": "Optifact",
     "client_name": "Salah Salah",
     "address": "Rue hedi chaker manouba",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "La Mannouba",
+    "city": "Manouba",
     "location": "",
     "tel1": "+21698330943",
     "tel2": "",
@@ -116,7 +120,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "v5kgpf53a",
@@ -124,8 +129,8 @@
     "product_name": "OptiFact Pro",
     "client_name": "Med Yacine Arfaoui",
     "address": "Bardo",
-    "gouvernerate": "",
-    "city": "Tunis",
+    "gouvernerate": "Tunis",
+    "city": "Le Bardo",
     "location": "",
     "tel1": "+21652739271",
     "tel2": "",
@@ -133,7 +138,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture : Anarymed distribution",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "aqh050uba",
@@ -141,8 +147,8 @@
     "product_name": "Optifact",
     "client_name": "Hassen ziadi",
     "address": "Bouargoub",
-    "gouvernerate": "",
-    "city": "Nabeul",
+    "gouvernerate": "Nabeul",
+    "city": "Bou Argoub",
     "location": "",
     "tel1": "+21622295198",
     "tel2": "",
@@ -150,7 +156,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "livraison lundi",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "n8k12552a",
@@ -158,7 +165,7 @@
     "product_name": "OptiFact Pro",
     "client_name": "أحمد بن الدالي",
     "address": "خزامة الغربية سوسة",
-    "gouvernerate": "",
+    "gouvernerate": "Sousse",
     "city": "Sousse",
     "location": "",
     "tel1": "+21629890108",
@@ -167,6 +174,7 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   }
 ]
