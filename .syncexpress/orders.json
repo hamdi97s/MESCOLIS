@@ -10,11 +10,13 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
+    "status": "synced",
     "id": "mc6v38q2v",
     "name": "MAN-3521",
     "location": "",
-    "tel2": ""
+    "tel2": "",
+    "barcode": "169339139327",
+    "delivery_status": "En attente"
   },
   {
     "product_name": "10 60/40/40",
@@ -27,11 +29,13 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
+    "status": "synced",
     "id": "dfbmqefue",
     "name": "MAN-0025",
     "location": "",
-    "tel2": ""
+    "tel2": "",
+    "barcode": "803588154211",
+    "delivery_status": "En attente"
   },
   {
     "id": "c5zc5bf2u",
@@ -48,8 +52,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "196738669322",
+    "delivery_status": "En attente"
   },
   {
     "id": "3bj2p0qby",
@@ -66,8 +72,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "194501496265",
+    "delivery_status": "En attente"
   },
   {
     "id": "bftl6n3bo",
@@ -84,8 +92,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "978914294698",
+    "delivery_status": "En attente"
   },
   {
     "id": "76w4q0l9z",
@@ -102,8 +112,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "357084977245",
+    "delivery_status": "En attente"
   },
   {
     "id": "jxrbk0fc7",
@@ -120,8 +132,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "466496487898",
+    "delivery_status": "En attente"
   },
   {
     "id": "v5kgpf53a",
@@ -138,8 +152,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture : Anarymed distribution",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "731091763430",
+    "delivery_status": "En attente"
   },
   {
     "id": "aqh050uba",
@@ -156,8 +172,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "livraison lundi",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "653697770686",
+    "delivery_status": "En attente"
   },
   {
     "id": "n8k12552a",
@@ -174,7 +192,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "566525804846",
+    "delivery_status": "En attente"
   }
 ]
