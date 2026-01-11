@@ -14,8 +14,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "autre numéro: 26 666 433",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "586519574183",
+    "delivery_status": "En attente"
   },
   {
     "id": "oimg4shu2",
@@ -32,8 +34,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "182827935346",
+    "delivery_status": "En attente"
   },
   {
     "id": "2s2ph3626",
@@ -50,8 +54,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "775265578085",
+    "delivery_status": "En attente"
   },
   {
     "id": "ux73vekgb",
@@ -68,8 +74,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "853149271703",
+    "delivery_status": "En attente"
   },
   {
     "id": "bmq3s712k",
@@ -86,8 +94,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "998006036295",
+    "delivery_status": "En attente"
   },
   {
     "id": "hgtaqvtpo",
@@ -104,8 +114,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "196340462742",
+    "delivery_status": "En attente"
   },
   {
     "id": "8lzkqf93x",
@@ -122,7 +134,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture: Ste 7N.LAB",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "847680696370",
+    "delivery_status": "En attente"
   }
 ]
