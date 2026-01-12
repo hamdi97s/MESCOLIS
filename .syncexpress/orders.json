@@ -5,8 +5,8 @@
     "product_name": "Optifact – Logiciel de facturation en Tunisie | Automatisez et gagnez 50 % de temps",
     "client_name": "Sadok Sadok",
     "address": "Khlidia morneg ben",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Ben Arous",
+    "city": "Khlidia",
     "location": "",
     "tel1": "+21651419117",
     "tel2": "",
@@ -14,7 +14,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "autre numero: 56 735 738",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "k28n8is6c",
@@ -22,8 +23,8 @@
     "product_name": "Optifact",
     "client_name": "Ramzi boudhraa",
     "address": "Kairouan",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Kairouan",
+    "city": "Kairouan",
     "location": "",
     "tel1": "+21629662773",
     "tel2": "",
@@ -31,7 +32,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture: LE GRAND CENTRAL DE CYCLES ET DE DIS",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "8yur0vaqz",
@@ -39,8 +41,8 @@
     "product_name": "Optifact",
     "client_name": "Ahmed choubani",
     "address": "Recharcha mahdia",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Mahdia",
+    "city": "Rejiche",
     "location": "",
     "tel1": "+21696178261",
     "tel2": "",
@@ -48,7 +50,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "fb5772wca",
@@ -56,8 +59,8 @@
     "product_name": "Optifact",
     "client_name": "احمد احمد",
     "address": "حي الرياض 1 قصر هلال",
-    "gouvernerate": "",
-    "city": "Monastir",
+    "gouvernerate": "Monastir",
+    "city": "Ksar Hellal",
     "location": "",
     "tel1": "+21654991099",
     "tel2": "",
@@ -65,7 +68,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "25ezu0yv6",
@@ -73,8 +77,8 @@
     "product_name": "Optifact",
     "client_name": "Chokri Ben ameur",
     "address": "Enkhilette Ariana Nord",
-    "gouvernerate": "",
-    "city": "Ariana",
+    "gouvernerate": "Ariana",
+    "city": "Ariana Nord",
     "location": "",
     "tel1": "+21650684180",
     "tel2": "",
@@ -82,7 +86,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "qs43n9agj",
@@ -90,8 +95,8 @@
     "product_name": "Optifact",
     "client_name": "Ahmed zarga",
     "address": "Kelibia 8090",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Nabeul",
+    "city": "Kelibia",
     "location": "",
     "tel1": "+21625843299",
     "tel2": "",
@@ -99,7 +104,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "q602cxy3r",
@@ -107,8 +113,8 @@
     "product_name": "Optifact",
     "client_name": "نعمان نعمان",
     "address": "حدائق قرطاج",
-    "gouvernerate": "",
-    "city": "Tunis",
+    "gouvernerate": "Tunis",
+    "city": "Carthage",
     "location": "",
     "tel1": "+21695040030",
     "tel2": "",
@@ -116,7 +122,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "38vp297yz",
@@ -124,8 +131,8 @@
     "product_name": "Optifact",
     "client_name": "Ste Malika Agriproducts",
     "address": "Le kef",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Le Kef",
+    "city": "Le Kef",
     "location": "",
     "tel1": "+21698487672",
     "tel2": "",
@@ -133,7 +140,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture: MALIKA AGRIPRODUCTS",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "fx2bfpqbv",
@@ -141,8 +149,8 @@
     "product_name": "Optifact",
     "client_name": "Nen Nen",
     "address": "Zarat gabes",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Gabès",
+    "city": "Zarat",
     "location": "",
     "tel1": "+21698462713",
     "tel2": "",
@@ -150,6 +158,7 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "saad nene",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   }
 ]
