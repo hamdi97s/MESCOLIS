@@ -5,8 +5,8 @@
     "product_name": "Optifact",
     "client_name": "Bedis cherif",
     "address": "Résidence Camélia derrière Hamadi abid soukra",
-    "gouvernerate": "",
-    "city": "Ariana",
+    "gouvernerate": "Ariana",
+    "city": "Soukra",
     "location": "",
     "tel1": "+21625204188",
     "tel2": "",
@@ -14,7 +14,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "abkgvenc0",
@@ -22,8 +23,8 @@
     "product_name": "Optifact",
     "client_name": "Moatez boughzala",
     "address": "Ksar helel",
-    "gouvernerate": "",
-    "city": "Monastir",
+    "gouvernerate": "Monastir",
+    "city": "Ksar Hellal",
     "location": "",
     "tel1": "+21655820384",
     "tel2": "",
@@ -31,7 +32,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "lq368d220",
@@ -39,8 +41,8 @@
     "product_name": "Optifact",
     "client_name": "Malek Malek",
     "address": "4, rue Hannibal Gammarth-Superieur La Marsa",
-    "gouvernerate": "",
-    "city": "Tunis",
+    "gouvernerate": "Tunis",
+    "city": "La Marsa",
     "location": "",
     "tel1": "+21653549252",
     "tel2": "",
@@ -48,7 +50,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "lh4h5ne9y",
@@ -56,7 +59,7 @@
     "product_name": "Optifact",
     "client_name": "ste ALMESSA  de commerce",
     "address": "Avenue martyrs palmaruiom 2safx",
-    "gouvernerate": "",
+    "gouvernerate": "Sfax",
     "city": "Sfax",
     "location": "",
     "tel1": "+21699437000",
@@ -65,6 +68,7 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "Société ALMESSA de commerce",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   }
 ]
