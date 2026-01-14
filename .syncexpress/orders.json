@@ -14,7 +14,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture: PNZ TRADING",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "216319411979",
+    "delivery_status": "En attente"
   }
 ]
