@@ -5,8 +5,8 @@
     "product_name": "OptiFact Pro",
     "client_name": "PNZ TRADING",
     "address": "av de l'environnement 5031 KSIBET EL MEDIOUNI",
-    "gouvernerate": "",
-    "city": "Monastir",
+    "gouvernerate": "Monastir",
+    "city": "Ksibet El Mediouni",
     "location": "",
     "tel1": "+21698829469",
     "tel2": "",
@@ -14,6 +14,7 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture: PNZ TRADING",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   }
 ]
