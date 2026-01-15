@@ -5,8 +5,8 @@
     "product_name": "Optifact",
     "client_name": "امين امين",
     "address": "تونس",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Tunis",
+    "city": "Tunis",
     "location": "",
     "tel1": "+21622753132",
     "tel2": "",
@@ -14,7 +14,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "société tunisian Bio Fresh",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "72yysdu3w",
@@ -22,7 +23,7 @@
     "product_name": "Optifact",
     "client_name": "monia monia",
     "address": "سوسو الكرنيش",
-    "gouvernerate": "",
+    "gouvernerate": "Sousse",
     "city": "Sousse",
     "location": "",
     "tel1": "+21650644983",
@@ -31,7 +32,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "fgcfa1pt3",
@@ -39,8 +41,8 @@
     "product_name": "Optifact",
     "client_name": "Messadine Messadine",
     "address": "RUE 14 JANVIER MESSADINE SOUSSE",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Sousse",
+    "city": "Messadine",
     "location": "",
     "tel1": "+21623200302",
     "tel2": "",
@@ -48,6 +50,7 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "nom: ahmed toumi",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   }
 ]
