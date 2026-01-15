@@ -14,8 +14,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "société tunisian Bio Fresh",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "193244231122",
+    "delivery_status": "En attente"
   },
   {
     "id": "72yysdu3w",
@@ -32,8 +34,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "313036095165",
+    "delivery_status": "En attente"
   },
   {
     "id": "fgcfa1pt3",
@@ -50,7 +54,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "nom: ahmed toumi",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "722444216141",
+    "delivery_status": "En attente"
   }
 ]
