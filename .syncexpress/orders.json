@@ -14,8 +14,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture: ste bio Algues Tunisie",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "190286254269",
+    "delivery_status": "En attente"
   },
   {
     "id": "ix76aeaxv",
@@ -32,8 +34,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "251348102656",
+    "delivery_status": "En attente"
   },
   {
     "id": "mbje0wjnh",
@@ -50,8 +54,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "263068556915",
+    "delivery_status": "En attente"
   },
   {
     "id": "aqqk668p9",
@@ -68,8 +74,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "842445093780",
+    "delivery_status": "En attente"
   },
   {
     "id": "8ulmoxe1a",
@@ -86,7 +94,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "474581925095",
+    "delivery_status": "En attente"
   }
 ]
