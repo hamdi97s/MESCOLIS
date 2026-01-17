@@ -5,8 +5,8 @@
     "product_name": "Optifact",
     "client_name": "سناء حولي",
     "address": "جمال",
-    "gouvernerate": "",
-    "city": "Kasserine",
+    "gouvernerate": "Monastir",
+    "city": "Jemmel",
     "location": "",
     "tel1": "+21640234777",
     "tel2": "",
@@ -14,7 +14,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "w3q83rtbq",
@@ -22,7 +23,7 @@
     "product_name": "Optifact",
     "client_name": "،sassi lazher",
     "address": "الأزهر بن عاشور بن عمار بن الحاج ساسي صفاقس طريق العين كم 7صفاقس تونس   الجمهورية التونسية   21622822462w97236873",
-    "gouvernerate": "",
+    "gouvernerate": "Sfax",
     "city": "Sfax",
     "location": "",
     "tel1": "+21697236873",
@@ -31,7 +32,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "nh5kw2fgi",
@@ -39,8 +41,8 @@
     "product_name": "Optifact",
     "client_name": "Generale Generale",
     "address": "Jbal jloud",
-    "gouvernerate": "",
-    "city": "Tunis",
+    "gouvernerate": "Tunis",
+    "city": "Jebel Jelloud",
     "location": "",
     "tel1": "+21623492492",
     "tel2": "",
@@ -48,7 +50,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "gho6mpbpg",
@@ -56,8 +59,8 @@
     "product_name": "Optifact",
     "client_name": "WalidMAZHOUD WalidMAZHOUD",
     "address": "La marsa",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Tunis",
+    "city": "La Marsa",
     "location": "",
     "tel1": "+21652280691",
     "tel2": "",
@@ -65,7 +68,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "2o0jwdk7u",
@@ -73,7 +77,7 @@
     "product_name": "Optifact",
     "client_name": "Bel Haj Youssef montassar",
     "address": "Monastir",
-    "gouvernerate": "",
+    "gouvernerate": "Monastir",
     "city": "Monastir",
     "location": "",
     "tel1": "+21658577771",
@@ -82,7 +86,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "x8lnm62ep",
@@ -90,8 +95,8 @@
     "product_name": "Optifact",
     "client_name": "عزيز عزيز",
     "address": "السواسي",
-    "gouvernerate": "",
-    "city": "Mahdia",
+    "gouvernerate": "Mahdia",
+    "city": "Souassi",
     "location": "",
     "tel1": "+21656882014",
     "tel2": "",
@@ -99,7 +104,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "fw060yj3i",
@@ -107,7 +113,7 @@
     "product_name": "Optifact",
     "client_name": "Mounir Mounir",
     "address": "Manouba",
-    "gouvernerate": "",
+    "gouvernerate": "La Mannouba",
     "city": "Manouba",
     "location": "",
     "tel1": "+21697301348",
@@ -116,6 +122,7 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   }
 ]
