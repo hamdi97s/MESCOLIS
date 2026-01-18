@@ -5,8 +5,8 @@
     "product_name": "Optifact",
     "client_name": "Rayen Rayen",
     "address": "149.000",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Tunis",
+    "city": "Tunis",
     "location": "",
     "tel1": "+21626682465",
     "tel2": "",
@@ -14,6 +14,7 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "livraison lundi",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   }
 ]
