@@ -5,8 +5,8 @@
     "product_name": "Optifact",
     "client_name": "WalidMAZHOUD WalidMAZHOUD",
     "address": "La marsa",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Tunis",
+    "city": "La Marsa",
     "location": "",
     "tel1": "+21652280691",
     "tel2": "",
@@ -14,7 +14,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture: STE PRO DIM SARL",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "wpn6s7h3f",
@@ -22,7 +23,7 @@
     "product_name": "Optifact",
     "client_name": "Bel Haj Youssef montassar",
     "address": "Monastir",
-    "gouvernerate": "",
+    "gouvernerate": "Monastir",
     "city": "Monastir",
     "location": "",
     "tel1": "+21658577771",
@@ -31,7 +32,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture: STE CHONAZ DISTRIBUTION GENERALE suarl",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "5dibnzlrt",
@@ -39,8 +41,8 @@
     "product_name": "Optifact",
     "client_name": "عزيز عزيز",
     "address": "السواسي",
-    "gouvernerate": "",
-    "city": "Mahdia",
+    "gouvernerate": "Mahdia",
+    "city": "Essouassi",
     "location": "",
     "tel1": "+21656882014",
     "tel2": "",
@@ -48,7 +50,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "8h466pgbz",
@@ -56,7 +59,7 @@
     "product_name": "Optifact",
     "client_name": "Mounir Mounir",
     "address": "Manouba",
-    "gouvernerate": "",
+    "gouvernerate": "La Mannouba",
     "city": "Manouba",
     "location": "",
     "tel1": "+21697301348",
@@ -65,7 +68,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture: SGST GROUP",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "4a3jgb773",
@@ -73,8 +77,8 @@
     "product_name": "Optifact",
     "client_name": "TAOUFIK TAOUFIK",
     "address": "حي النور قفصة",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Gafsa",
+    "city": "Gafsa",
     "location": "",
     "tel1": "+21627700777",
     "tel2": "",
@@ -82,7 +86,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "e9v6zm3t6",
@@ -90,8 +95,8 @@
     "product_name": "Optifact",
     "client_name": "Ayari wassim",
     "address": "Borj louzir ezzahra , ben arous",
-    "gouvernerate": "",
-    "city": "Ben Arous",
+    "gouvernerate": "Ben Arous",
+    "city": "Ezzahra",
     "location": "",
     "tel1": "+21696592507",
     "tel2": "",
@@ -99,7 +104,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "6p0e5pd5r",
@@ -107,7 +113,7 @@
     "product_name": "Optifact",
     "client_name": "Youssef Youssef",
     "address": "La 1 tunis",
-    "gouvernerate": "",
+    "gouvernerate": "Tunis",
     "city": "Tunis",
     "location": "",
     "tel1": "+21698638878",
@@ -116,7 +122,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture: SOCIETE SARL HNENI PRO AGRI",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "ipkej7d5x",
@@ -124,8 +131,8 @@
     "product_name": "Optifact",
     "client_name": "Bellili Bellili",
     "address": "الكاف وسط المدينة",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Le Kef",
+    "city": "Le Kef",
     "location": "",
     "tel1": "+21698285257",
     "tel2": "",
@@ -133,7 +140,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "1sp1hwjc5",
@@ -141,8 +149,8 @@
     "product_name": "Optifact",
     "client_name": "عماد عماد",
     "address": "نفزة ولاية باجة",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Béja",
+    "city": "Nefza",
     "location": "",
     "tel1": "+21692782345",
     "tel2": "",
@@ -150,7 +158,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "l7ygbldm4",
@@ -158,8 +167,8 @@
     "product_name": "Optifact",
     "client_name": "رمزي بن خليفة",
     "address": "العقبة",
-    "gouvernerate": "",
-    "city": "Tunis",
+    "gouvernerate": "Tunis",
+    "city": "Agba",
     "location": "",
     "tel1": "+21651041048",
     "tel2": "",
@@ -167,7 +176,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture: BEN KHALIFA RAMZI EXTRA CUISINE",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "li99r8b8y",
@@ -175,8 +185,8 @@
     "product_name": "Optifact",
     "client_name": "Miled Miled",
     "address": "Hotel  la rosesie boa llunge hammem sousse",
-    "gouvernerate": "",
-    "city": "Sousse",
+    "gouvernerate": "Sousse",
+    "city": "Hammam Sousse",
     "location": "",
     "tel1": "+21655814925",
     "tel2": "",
@@ -184,7 +194,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "65zdwp6od",
@@ -192,8 +203,8 @@
     "product_name": "Optifact",
     "client_name": "fetia fetia",
     "address": "القلعة الصغرى سوسة",
-    "gouvernerate": "",
-    "city": "Sousse",
+    "gouvernerate": "Sousse",
+    "city": "Kalaa Sghira",
     "location": "",
     "tel1": "+21622927982",
     "tel2": "",
@@ -201,7 +212,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "ppef374hv",
@@ -209,8 +221,8 @@
     "product_name": "OptiFact Pro",
     "client_name": "jalloul mohamed firas",
     "address": "Rue assad ibn fourat 5090 bekalta",
-    "gouvernerate": "",
-    "city": "Monastir",
+    "gouvernerate": "Monastir",
+    "city": "Bekalta",
     "location": "",
     "tel1": "+21697972488",
     "tel2": "",
@@ -218,6 +230,7 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture: MOHAMED FIRAS JALLOUL EXPERTIC",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   }
 ]
