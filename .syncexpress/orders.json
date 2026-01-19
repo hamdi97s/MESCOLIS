@@ -14,8 +14,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture: STE PRO DIM SARL",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "345323023467",
+    "delivery_status": "En attente"
   },
   {
     "id": "wpn6s7h3f",
@@ -32,8 +34,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture: STE CHONAZ DISTRIBUTION GENERALE suarl",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "749303198267",
+    "delivery_status": "En attente"
   },
   {
     "id": "5dibnzlrt",
@@ -50,8 +54,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "240643006616",
+    "delivery_status": "En attente"
   },
   {
     "id": "8h466pgbz",
@@ -68,8 +74,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture: SGST GROUP",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "728894987187",
+    "delivery_status": "En attente"
   },
   {
     "id": "4a3jgb773",
@@ -86,8 +94,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "485457893531",
+    "delivery_status": "En attente"
   },
   {
     "id": "e9v6zm3t6",
@@ -104,8 +114,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "484326186907",
+    "delivery_status": "En attente"
   },
   {
     "id": "6p0e5pd5r",
@@ -122,8 +134,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture: SOCIETE SARL HNENI PRO AGRI",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "517545749606",
+    "delivery_status": "En attente"
   },
   {
     "id": "ipkej7d5x",
@@ -140,8 +154,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "484327020352",
+    "delivery_status": "En attente"
   },
   {
     "id": "1sp1hwjc5",
@@ -158,8 +174,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "781418510362",
+    "delivery_status": "En attente"
   },
   {
     "id": "l7ygbldm4",
@@ -176,8 +194,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture: BEN KHALIFA RAMZI EXTRA CUISINE",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "355942058880",
+    "delivery_status": "En attente"
   },
   {
     "id": "li99r8b8y",
@@ -194,8 +214,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "561856762892",
+    "delivery_status": "En attente"
   },
   {
     "id": "65zdwp6od",
@@ -212,8 +234,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "330604801809",
+    "delivery_status": "En attente"
   },
   {
     "id": "ppef374hv",
@@ -230,7 +254,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture: MOHAMED FIRAS JALLOUL EXPERTIC",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "480543841736",
+    "delivery_status": "En attente"
   }
 ]
