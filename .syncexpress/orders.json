@@ -5,8 +5,8 @@
     "product_name": "Optifact",
     "client_name": "Ahmed razgallah",
     "address": "msakne",
-    "gouvernerate": "",
-    "city": "Sousse",
+    "gouvernerate": "Sousse",
+    "city": "M'saken",
     "location": "",
     "tel1": "+21621950999",
     "tel2": "",
@@ -14,7 +14,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "seulement optifact",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "iz7443irh",
@@ -22,7 +23,7 @@
     "product_name": "Optifact",
     "client_name": "Lazaar Lazaar",
     "address": "Centre Urbain Nord",
-    "gouvernerate": "",
+    "gouvernerate": "Tunis",
     "city": "Tunis",
     "location": "",
     "tel1": "+21657123123",
@@ -31,7 +32,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture: Société LZ Trade",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "f9pgf7cqi",
@@ -39,8 +41,8 @@
     "product_name": "Optifact",
     "client_name": "Bouslama Bouslama",
     "address": "Beb jedid",
-    "gouvernerate": "",
-    "city": "Sousse",
+    "gouvernerate": "Tunis",
+    "city": "Tunis",
     "location": "",
     "tel1": "+21654604590",
     "tel2": "",
@@ -48,6 +50,7 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture: STE IMMOBILIERE BOUJAAFAR",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   }
 ]
