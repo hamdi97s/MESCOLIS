@@ -14,8 +14,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "seulement optifact",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "484753401755",
+    "delivery_status": "En attente"
   },
   {
     "id": "iz7443irh",
@@ -32,8 +34,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture: Société LZ Trade",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "218233471514",
+    "delivery_status": "En attente"
   },
   {
     "id": "f9pgf7cqi",
@@ -50,7 +54,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture: STE IMMOBILIERE BOUJAAFAR",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "450730069338",
+    "delivery_status": "En attente"
   }
 ]
