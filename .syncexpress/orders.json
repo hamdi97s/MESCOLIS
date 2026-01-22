@@ -5,8 +5,8 @@
     "product_name": "Optifact",
     "client_name": "Arbi Arbi",
     "address": "Jdayda",
-    "gouvernerate": "",
-    "city": "Manouba",
+    "gouvernerate": "La Mannouba",
+    "city": "Jdayda",
     "location": "",
     "tel1": "+21658605813",
     "tel2": "",
@@ -14,7 +14,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "4yqyaxt53",
@@ -22,8 +23,8 @@
     "product_name": "Optifact",
     "client_name": "Trabelsi Moez",
     "address": "Medjez el beb",
-    "gouvernerate": "",
-    "city": "Béja",
+    "gouvernerate": "Béja",
+    "city": "Medjez el beb",
     "location": "",
     "tel1": "+21629652095",
     "tel2": "",
@@ -31,6 +32,7 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   }
 ]
