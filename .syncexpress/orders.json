@@ -14,8 +14,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "771221220279",
+    "delivery_status": "En attente"
   },
   {
     "id": "4yqyaxt53",
@@ -32,7 +34,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "387261451171",
+    "delivery_status": "En attente"
   }
 ]
