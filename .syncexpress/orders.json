@@ -5,7 +5,7 @@
     "product_name": "Optifact",
     "client_name": "Abdallah Bahloul",
     "address": "Sfax",
-    "gouvernerate": "",
+    "gouvernerate": "Sfax",
     "city": "Sfax",
     "location": "",
     "tel1": "+21644580880",
@@ -14,7 +14,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "livraison jeudi",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "egb7em547",
@@ -22,8 +23,8 @@
     "product_name": "Optifact",
     "client_name": "SSMIE SSMIE",
     "address": "Hammam sousse",
-    "gouvernerate": "",
-    "city": "Sousse",
+    "gouvernerate": "Sousse",
+    "city": "Hammam Sousse",
     "location": "",
     "tel1": "+21698520396",
     "tel2": "",
@@ -31,7 +32,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "autre numero: 98592155",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "egsdlf86q",
@@ -39,8 +41,8 @@
     "product_name": "Optifact",
     "client_name": "Abdesslem Abdesslem",
     "address": "صفاقس عمارة  la couronne",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Sfax",
+    "city": "Sfax",
     "location": "",
     "tel1": "+21655107700",
     "tel2": "",
@@ -48,7 +50,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "s2b58o3t0",
@@ -56,7 +59,7 @@
     "product_name": "OptiFact Pro",
     "client_name": "nabegh dhouib",
     "address": "14 rue d'athenne tunis centre ville",
-    "gouvernerate": "",
+    "gouvernerate": "Tunis",
     "city": "Tunis",
     "location": "",
     "tel1": "+21655339335",
@@ -65,7 +68,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "MF: 081138RAC000",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "npd01dprx",
@@ -73,8 +77,8 @@
     "product_name": "OptiFact Pro",
     "client_name": "Khalil Mtimet",
     "address": "السحبي المؤانسة جرجيس",
-    "gouvernerate": "",
-    "city": "Medenine",
+    "gouvernerate": "Médenine",
+    "city": "Zarzis",
     "location": "",
     "tel1": "+21695707977",
     "tel2": "",
@@ -82,7 +86,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "i2d4vr8i7",
@@ -90,8 +95,8 @@
     "product_name": "Optifact",
     "client_name": "Chaibi Chaibi",
     "address": "RUE ALLALA FESSI EL.HAMMA GABES",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Gabès",
+    "city": "El Hamma",
     "location": "",
     "tel1": "+21624320782",
     "tel2": "",
@@ -99,6 +104,7 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   }
 ]
