@@ -14,8 +14,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "livraison jeudi",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "445314354842",
+    "delivery_status": "En attente"
   },
   {
     "id": "egb7em547",
@@ -32,8 +34,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "autre numero: 98592155",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "254920947061",
+    "delivery_status": "En attente"
   },
   {
     "id": "egsdlf86q",
@@ -50,8 +54,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "683000973420",
+    "delivery_status": "En attente"
   },
   {
     "id": "s2b58o3t0",
@@ -68,8 +74,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "MF: 081138RAC000",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "260685417426",
+    "delivery_status": "En attente"
   },
   {
     "id": "npd01dprx",
@@ -86,8 +94,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "197778596784",
+    "delivery_status": "En attente"
   },
   {
     "id": "i2d4vr8i7",
@@ -104,7 +114,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "673104551453",
+    "delivery_status": "En attente"
   }
 ]
