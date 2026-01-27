@@ -5,7 +5,7 @@
     "product_name": "Optifact",
     "client_name": "Ali souii",
     "address": "Sfax",
-    "gouvernerate": "",
+    "gouvernerate": "Sfax",
     "city": "Sfax",
     "location": "",
     "tel1": "+21695539518",
@@ -14,7 +14,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "erh9jg0z5",
@@ -22,8 +23,8 @@
     "product_name": "Optifact",
     "client_name": "Mohamed Weslati",
     "address": "Ain Zaghouan nord",
-    "gouvernerate": "",
-    "city": "Tunis",
+    "gouvernerate": "Tunis",
+    "city": "Ain Zaghouan",
     "location": "",
     "tel1": "+21629545754",
     "tel2": "",
@@ -31,7 +32,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture: Linzou chemical",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "ng631k4zx",
@@ -39,8 +41,8 @@
     "product_name": "Optifact",
     "client_name": "Bouhenijamel Bouhenijamel",
     "address": "الباطن القيروان",
-    "gouvernerate": "",
-    "city": "-",
+    "gouvernerate": "Kairouan",
+    "city": "El Baten",
     "location": "",
     "tel1": "+21698436243",
     "tel2": "",
@@ -48,7 +50,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "livraison lundi ( matb34hech taw mouch fi tounes)",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "1ryf3jbxk",
@@ -56,8 +59,8 @@
     "product_name": "Optifact",
     "client_name": "rhouma ben romdhan",
     "address": "شكربان جرجيس",
-    "gouvernerate": "",
-    "city": "Tunis",
+    "gouvernerate": "Médenine",
+    "city": "Zarzis",
     "location": "",
     "tel1": "+21699380220",
     "tel2": "",
@@ -65,7 +68,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "yagdcrp3t",
@@ -73,8 +77,8 @@
     "product_name": "Optifact",
     "client_name": "ste azer slimen",
     "address": "tbelba monastir",
-    "gouvernerate": "",
-    "city": "Monastir",
+    "gouvernerate": "Monastir",
+    "city": "Teboulba",
     "location": "",
     "tel1": "+21698627294",
     "tel2": "",
@@ -82,6 +86,7 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture: STE JOULYA SLIMEN DE COMMERCE",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   }
 ]
