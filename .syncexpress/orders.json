@@ -5,8 +5,8 @@
     "product_name": "OptiFact : logiciel de facturation conforme à TEJ",
     "client_name": "karim mohamed",
     "address": "Hammamet sud a coté mosqué bilel",
-    "gouvernerate": "",
-    "city": "Nabeul",
+    "gouvernerate": "Nabeul",
+    "city": "Hammamet",
     "location": "",
     "tel1": "+21622222603",
     "tel2": "",
@@ -14,7 +14,8 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture :Ets chabaane trv general",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   },
   {
     "id": "2yx54k1vt",
@@ -22,8 +23,8 @@
     "product_name": "OptiFact : logiciel de facturation conforme à TEJ",
     "client_name": "ramzi dhifeoui",
     "address": "شوايحية شراردة القيروان",
-    "gouvernerate": "",
-    "city": "Kairouan",
+    "gouvernerate": "Kairouan",
+    "city": "Cherarda",
     "location": "",
     "tel1": "+21623405240",
     "tel2": "",
@@ -31,6 +32,7 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending"
+    "status": "pending",
+    "isAiCorrected": true
   }
 ]
