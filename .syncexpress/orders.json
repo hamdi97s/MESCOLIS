@@ -14,8 +14,10 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "facture :Ets chabaane trv general",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "782911265738",
+    "delivery_status": "En attente"
   },
   {
     "id": "2yx54k1vt",
@@ -32,7 +34,9 @@
     "exchange": "0",
     "open_ordre": "0",
     "note": "",
-    "status": "pending",
-    "isAiCorrected": true
+    "status": "synced",
+    "isAiCorrected": true,
+    "barcode": "518612863081",
+    "delivery_status": "En attente"
   }
 ]
